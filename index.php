@@ -1,3 +1,4 @@
+<div style="background: #eee; color:#000; font-size:16px; text-align: center; line-height: 22px;">Live</div>
 <?php
 
 /*

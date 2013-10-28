@@ -1,4 +1,4 @@
 .htaccess
 access.log
 error.log
-/.idea/
+/.idea/*
