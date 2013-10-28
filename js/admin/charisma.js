@@ -18,7 +18,8 @@ $(document).ready(function(){
 	
 	function switch_theme(theme_name)
 	{
-		$('#bs-css').attr('href', 'http://localhost/freelance/styles/admin/bootstrap-'+theme_name+'.css');
+
+		$('#bs-css').attr('href', '/styles/admin/bootstrap-'+theme_name+'.css');
 	}
 	
 	//ajax menu checkbox

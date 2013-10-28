@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'fs.local';
+$config['base_url']	= 'alpha.roman-ua89.in.ua';
 
 /*
 |--------------------------------------------------------------------------

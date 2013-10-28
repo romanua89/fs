@@ -1,1 +1,4 @@
 .htaccess
+access.log
+error.log
+/.idea/
