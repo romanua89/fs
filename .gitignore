@@ -1,4 +1,6 @@
 .htaccess
 access.log
 error.log
+environment/
+/application/logs/
 /.idea/

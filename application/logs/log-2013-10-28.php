@@ -3800,3 +3800,8 @@ ERROR - 2013-10-28 13:44:19 --> 404 Page Not Found --> img
 ERROR - 2013-10-28 13:44:19 --> 404 Page Not Found --> img
 ERROR - 2013-10-28 13:44:21 --> 404 Page Not Found --> img
 ERROR - 2013-10-28 13:44:21 --> 404 Page Not Found --> img
+ERROR - 2013-10-28 14:42:38 --> 404 Page Not Found --> img
+ERROR - 2013-10-28 14:42:38 --> 404 Page Not Found --> img
+ERROR - 2013-10-28 14:42:39 --> 404 Page Not Found --> img
+ERROR - 2013-10-28 14:42:39 --> 404 Page Not Found --> img
+ERROR - 2013-10-28 15:15:45 --> Severity: Notice  --> Undefined property: Welcome::$db D:\development\localsites\fs.local\system\core\Model.php 51
