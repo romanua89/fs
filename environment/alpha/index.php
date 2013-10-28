@@ -1,3 +1,4 @@
+<div style="background: #eee; color:#000; font-size:16px; line-height:26px; text-align: center;">Alpha</div>
 <?php
 
 /*

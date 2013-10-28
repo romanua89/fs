@@ -1,4 +1,5 @@
 .htaccess
 access.log
+application/logs/
 error.log
 /.idea/
